@@ -175,7 +175,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qdM8yiAsX16dc40Ja_fj" name="Page-2">
-    <mxGraphModel dx="1660" dy="805" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1951" dy="991" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -236,7 +236,7 @@
             <mxPoint x="266.00999999999976" y="170.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-8VOvQR8tPHlNA0vil8y-21" value="Utility matrix" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="-8VOvQR8tPHlNA0vil8y-21" value="Utility matrix" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=25;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-287" y="132" width="278" height="261.4" as="geometry" />
         </mxCell>
         <mxCell id="-8VOvQR8tPHlNA0vil8y-22" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="-8VOvQR8tPHlNA0vil8y-21" vertex="1">
@@ -779,6 +779,12 @@
               <mxPoint x="164" y="392" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Gvnw7Qi3UiN39xdBdxwp-228" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;User-user graph&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="67.25" y="82.5" width="211" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="Gvnw7Qi3UiN39xdBdxwp-229" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Comunity graph&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="432" y="124.5" width="210" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
