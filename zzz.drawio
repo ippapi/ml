@@ -1,23 +1,53 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.4">
   <diagram name="Page-1" id="JQH4CGquwNSrJiN4EWIq">
-    <mxGraphModel dx="2449" dy="1134" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="934" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gIv5DeEMvpn-gfwTawNx-6" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100%; height: 100%; border-collapse: collapse; font-size: 25px;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;congty&lt;/b&gt;&lt;/font&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr align=&quot;left&quot;&gt;&lt;td&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;- id&lt;br&gt;- list_nv_vanphong&lt;br&gt;- list_nv_banhang&lt;br&gt;&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr align=&quot;left&quot;&gt;&lt;td&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;- add_nv(nv)&lt;br&gt;- cal_nv_slary()&lt;br&gt;- print_info()&lt;br&gt;- find_nv()&lt;br&gt;- find_lowest_slary_nv()&lt;br&gt;- find_highest_slary_nv_banhang()&lt;br&gt;- find_top_10_slary()&lt;br&gt;- get_lowest_units_nv()&lt;br&gt;&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
-          <mxGeometry x="-166" y="206" width="407" height="487" as="geometry" />
+          <mxGeometry x="914" y="206.5" width="407" height="487" as="geometry" />
         </mxCell>
         <mxCell id="gIv5DeEMvpn-gfwTawNx-7" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100%; height: 100%; border-collapse: collapse; font-size: 25px;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;abc_nhanvien&lt;/th&gt;&lt;/tr&gt;&lt;tr align=&quot;left&quot;&gt;&lt;td&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;- cal_slary()&lt;br&gt;&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
-          <mxGeometry x="298" y="15" width="396" height="101" as="geometry" />
+          <mxGeometry x="277.5" y="11" width="402" height="101" as="geometry" />
         </mxCell>
         <mxCell id="gIv5DeEMvpn-gfwTawNx-8" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100%; height: 100%; border-collapse: collapse; font-size: 25px;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;nhanvien&lt;/b&gt;&lt;/font&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr align=&quot;left&quot;&gt;&lt;td&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;- id&lt;br&gt;- name&lt;br&gt;- basic_slary&lt;br&gt;- num_units&lt;br&gt;- month_slary&lt;br&gt;&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr align=&quot;left&quot;&gt;&lt;td&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;- property: id, name, basic_slary, num_units, month_slary&lt;br&gt;- setter: basic_slary(basic_slary), month_slary(month_slary)&lt;br&gt;&lt;br&gt;- __str__()&lt;br&gt;&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
           <mxGeometry x="271" y="205.5" width="415" height="488" as="geometry" />
         </mxCell>
         <mxCell id="gIv5DeEMvpn-gfwTawNx-9" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100%; height: 100%; border-collapse: collapse; font-size: 25px;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;nhanvienbanhang&lt;/b&gt;&lt;/font&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr align=&quot;left&quot;&gt;&lt;td&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;- cal_slary()&lt;br&gt;&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
-          <mxGeometry x="774" y="267" width="396" height="101" as="geometry" />
+          <mxGeometry x="46" y="807" width="396" height="101" as="geometry" />
         </mxCell>
         <mxCell id="gIv5DeEMvpn-gfwTawNx-10" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width: 100%; height: 100%; border-collapse: collapse; font-size: 25px;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;nhanvienvanphong&lt;/b&gt;&lt;/font&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr align=&quot;left&quot;&gt;&lt;td&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;- cal_slary()&lt;br&gt;&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
-          <mxGeometry x="785" y="405" width="396" height="101" as="geometry" />
+          <mxGeometry x="599" y="807" width="396" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="gIv5DeEMvpn-gfwTawNx-12" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="gIv5DeEMvpn-gfwTawNx-8" target="gIv5DeEMvpn-gfwTawNx-7">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="722" y="532" as="sourcePoint" />
+            <mxPoint x="882" y="532" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gIv5DeEMvpn-gfwTawNx-13" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="gIv5DeEMvpn-gfwTawNx-9" target="gIv5DeEMvpn-gfwTawNx-8">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="478.91" y="785" as="sourcePoint" />
+            <mxPoint x="477.91" y="702" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gIv5DeEMvpn-gfwTawNx-14" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="gIv5DeEMvpn-gfwTawNx-10" target="gIv5DeEMvpn-gfwTawNx-8">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="254" y="817" as="sourcePoint" />
+            <mxPoint x="489" y="704" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gIv5DeEMvpn-gfwTawNx-15" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gIv5DeEMvpn-gfwTawNx-6" target="gIv5DeEMvpn-gfwTawNx-8">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="860" y="395" as="sourcePoint" />
+            <mxPoint x="735" y="485" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gIv5DeEMvpn-gfwTawNx-17" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="880" y="418" width="25" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gIv5DeEMvpn-gfwTawNx-18" value="1..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="701" y="418" width="35" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
