@@ -57,7 +57,7 @@
         <mxCell id="oL7AE08RJMNGHCQRtIXl-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="oL7AE08RJMNGHCQRtIXl-9" source="oL7AE08RJMNGHCQRtIXl-11" target="oL7AE08RJMNGHCQRtIXl-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oL7AE08RJMNGHCQRtIXl-11" value="Phân tích độ tương quan" style="rounded=1;whiteSpace=wrap;html=1;" parent="oL7AE08RJMNGHCQRtIXl-9" vertex="1">
+        <mxCell id="oL7AE08RJMNGHCQRtIXl-11" value="Phân tích độ tương quan, RegPlot" style="rounded=1;whiteSpace=wrap;html=1;" parent="oL7AE08RJMNGHCQRtIXl-9" vertex="1">
           <mxGeometry x="36.86666666666667" y="144.0041121495327" width="84.26666666666667" height="55.51401869158879" as="geometry" />
         </mxCell>
         <mxCell id="oL7AE08RJMNGHCQRtIXl-22" value="Lọc dữ liệu theo hai phân tích" style="rounded=1;whiteSpace=wrap;html=1;" parent="oL7AE08RJMNGHCQRtIXl-9" vertex="1">
